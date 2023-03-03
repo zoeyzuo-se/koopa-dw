@@ -1,15 +1,13 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Learning is all
+heroImage: /koopa_1.jpeg
+tagline: Welcome to my technical blog!
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /docs/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Technical Blogs
+  details: Stores the solutions to some issues I encountered
+- title: Learning Tips
+  details: Some of the tips of certain topics
 footer: Made by Zoey Zuo with ❤️
 ---

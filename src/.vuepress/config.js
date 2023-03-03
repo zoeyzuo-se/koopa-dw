@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Koopa Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,8 +34,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Docs',
+        link: '/docs/',
       },
       {
         text: 'Config',
@@ -47,13 +47,15 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/docs/': [
         {
-          title: 'Guide',
+          title: 'Docs',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            '1-buildpushimage',
+            '2-sp-devops',
+            '3-terraform-azure-pp'
           ]
         }
       ],
