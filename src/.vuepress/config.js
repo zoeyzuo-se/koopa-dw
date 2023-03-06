@@ -55,7 +55,8 @@ module.exports = {
             '',
             '1-buildpushimage',
             '2-sp-devops',
-            '3-terraform-azure-pp'
+            '3-terraform-azure-pp',
+            '4-app-registrations'
           ]
         }
       ],
