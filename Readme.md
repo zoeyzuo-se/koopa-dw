@@ -1,7 +1,7 @@
 # Welcome!
-Welcome to Koopa-dw! This is where I put my technical blog to keep a note of some issues I found and the solutions to them.
+Welcome to Koopa-dw! This was where I put my technical blog to keep a note of some issues I found and the solutions to them.
 
-URL: https://blog.yuruzuo.co.uk/
+URL: https://blog.yuruzuo.co.uk/ - no longer hosted.
 
 
 # Contributing
